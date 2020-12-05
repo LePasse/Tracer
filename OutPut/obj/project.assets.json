@@ -745,23 +745,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\agcl3\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\pavle\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\5 сем\\СПП\\ConsoleApp1\\OutPut\\ConsoleOut.csproj",
+      "projectUniqueName": "C:\\Users\\pavle\\Desktop\\Tracer_MPP_1-master\\OutPut\\ConsoleOut.csproj",
       "projectName": "ConsoleOut",
-      "projectPath": "D:\\5 сем\\СПП\\ConsoleApp1\\OutPut\\ConsoleOut.csproj",
-      "packagesPath": "C:\\Users\\agcl3\\.nuget\\packages\\",
-      "outputPath": "D:\\5 сем\\СПП\\ConsoleApp1\\OutPut\\obj\\",
+      "projectPath": "C:\\Users\\pavle\\Desktop\\Tracer_MPP_1-master\\OutPut\\ConsoleOut.csproj",
+      "packagesPath": "C:\\Users\\pavle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pavle\\Desktop\\Tracer_MPP_1-master\\OutPut\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\agcl3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pavle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -774,8 +774,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\5 сем\\СПП\\ConsoleApp1\\TracerLib\\TracerLib.csproj": {
-              "projectPath": "D:\\5 сем\\СПП\\ConsoleApp1\\TracerLib\\TracerLib.csproj"
+            "C:\\Users\\pavle\\Desktop\\Tracer_MPP_1-master\\TracerLib\\TracerLib.csproj": {
+              "projectPath": "C:\\Users\\pavle\\Desktop\\Tracer_MPP_1-master\\TracerLib\\TracerLib.csproj"
             }
           }
         }

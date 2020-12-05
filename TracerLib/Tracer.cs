@@ -61,14 +61,14 @@ namespace TracerLib
             }
             public TraceResult GetTraceResult()
             {
-                foreach (KeyValuePair<int, TheardTraceResult> thread in TraceInfo.Theards)
+                foreach (KeyValuePair<int, TheardTraceResult> theard in TraceInfo.Theards)
                 {
                     long time = 0;
-                    foreach (MethodTraceResult Method in thread.Value.Methods)
+                    foreach (MethodTraceResult Method in theard.Value.Methods)
                     {
                         time += Method.MethodExecuteTime;
                     }
-                    thread.Value.ExecuteTime=time;
+                    theard.Value.ExecuteTime=time;
                 }
                 return TraceInfo;
             }

@@ -3,7 +3,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <FileUpgradeFlags>40</FileUpgradeFlags>
-    <UpgradeBackupLocation>C:\Users\pavle\Desktop\Tracer_MPP_1-master\Backup4\</UpgradeBackupLocation>
+    <UpgradeBackupLocation>C:\Users\pavle\Desktop\Tracer_MPP_1-master\Backup2\</UpgradeBackupLocation>
     <OldToolsVersion>Current</OldToolsVersion>
   </PropertyGroup>
   <ItemGroup>
