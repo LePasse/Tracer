@@ -26,3 +26,17 @@ D:\5 сем\СПП\ConsoleApp1\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.Assembl
 D:\5 сем\СПП\ConsoleApp1\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.csproj.CopyComplete
 D:\5 сем\СПП\ConsoleApp1\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.dll
 D:\5 сем\СПП\ConsoleApp1\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.pdb
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\ConsoleOut.deps.json
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\ConsoleOut.runtimeconfig.json
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\ConsoleOut.runtimeconfig.dev.json
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\ConsoleOut.dll
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\ConsoleOut.pdb
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.csprojAssemblyReference.cache
+C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.AssemblyInfoInputs.cache
+C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.AssemblyInfo.cs
+C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.csproj.CopyComplete
+C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.dll
+C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.pdb

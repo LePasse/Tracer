@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nmSDB91gk2EOoMl35mXaOCllr+JDe3OZ4UnYyF4Y7RVf6SiOe2Vo+fBT2s4lArwqYq7bM4Y9Amq7jioi05rI4w==",
+  "dgSpecHash": "RfBHBJjY4UKXLorwqrydZURrWwNrfLKblYtUZOuKB5psKDFt0axRx1jz7CEEng0id22UU+qitF7j3WV5LBY2Mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pavle\\Desktop\\Tracer_MPP_1-master\\OutPut\\ConsoleOut.csproj",
+  "projectFilePath": "C:\\Users\\pavle\\source\\repos\\Tracer\\OutPut\\ConsoleOut.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

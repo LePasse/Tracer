@@ -751,11 +751,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pavle\\Desktop\\Tracer_MPP_1-master\\OutPut\\ConsoleOut.csproj",
+      "projectUniqueName": "C:\\Users\\pavle\\source\\repos\\Tracer\\OutPut\\ConsoleOut.csproj",
       "projectName": "ConsoleOut",
-      "projectPath": "C:\\Users\\pavle\\Desktop\\Tracer_MPP_1-master\\OutPut\\ConsoleOut.csproj",
+      "projectPath": "C:\\Users\\pavle\\source\\repos\\Tracer\\OutPut\\ConsoleOut.csproj",
       "packagesPath": "C:\\Users\\pavle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pavle\\Desktop\\Tracer_MPP_1-master\\OutPut\\obj\\",
+      "outputPath": "C:\\Users\\pavle\\source\\repos\\Tracer\\OutPut\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -774,8 +774,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\pavle\\Desktop\\Tracer_MPP_1-master\\TracerLib\\TracerLib.csproj": {
-              "projectPath": "C:\\Users\\pavle\\Desktop\\Tracer_MPP_1-master\\TracerLib\\TracerLib.csproj"
+            "C:\\Users\\pavle\\source\\repos\\Tracer\\TracerLib\\TracerLib.csproj": {
+              "projectPath": "C:\\Users\\pavle\\source\\repos\\Tracer\\TracerLib\\TracerLib.csproj"
             }
           }
         }

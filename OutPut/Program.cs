@@ -16,11 +16,6 @@ namespace ConsoleOut
         static Tracer tracer = new Tracer() ;
         static void Main(string[] args)
         {
-            
-            //Thread myThread = new Thread(new ThreadStart(Theard));
-            //myThread.Start(); // запускаем поток
-
-
             Thread Thread1 = new Thread(new ThreadStart(TheardTest1));
             Thread1.Start(); 
 
