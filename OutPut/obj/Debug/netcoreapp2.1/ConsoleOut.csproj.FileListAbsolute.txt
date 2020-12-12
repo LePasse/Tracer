@@ -34,9 +34,15 @@ C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\ConsoleOut.pdb
 C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
 C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
 C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.csprojAssemblyReference.cache
-C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.csproj.CoreCompileInputs.cache
 C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.AssemblyInfoInputs.cache
 C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.AssemblyInfo.cs
 C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.csproj.CopyComplete
 C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.dll
 C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.pdb
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pavle\source\repos\Tracer\OutPut\obj\Debug\netcoreapp2.1\ConsoleOut.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\testhost.dll
+C:\Users\pavle\source\repos\Tracer\OutPut\bin\Debug\netcoreapp2.1\Microsoft.TestPlatform.PlatformAbstractions.dll

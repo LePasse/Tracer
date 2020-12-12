@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a61e3f01_002Dda71_002D4fec_002Dbad5_002D5e6bb497e5ae/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1C0DB0BA-CA29-4765-9230-C1DD5CABD970::.NETFramework,Version=v4.6.1::Tests.TracerTests.TestException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1C0DB0BA-CA29-4765-9230-C1DD5CABD970::.NETFramework,Version=v4.6.1::Tests.TracerTests.TestComb&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1C0DB0BA-CA29-4765-9230-C1DD5CABD970::.NETFramework,Version=v4.6.1::Tests.TracerTests.TestRecursionWrong&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

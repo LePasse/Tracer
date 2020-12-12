@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pavle\\source\\repos\\Tracer\\NUnitNPO\\NUnitNPO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pavle\\source\\repos\\Tracer\\NUnitNPO\\NUnitNPO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pavle\\source\\repos\\Tracer\\NUnitNPO\\NUnitNPO.csproj",
+        "projectName": "NUnitNPO",
+        "projectPath": "C:\\Users\\pavle\\source\\repos\\Tracer\\NUnitNPO\\NUnitNPO.csproj",
+        "packagesPath": "C:\\Users\\pavle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pavle\\source\\repos\\Tracer\\NUnitNPO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pavle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\pavle\\source\\repos\\Tracer\\TracerLib\\TracerLib.csproj": {
+                "projectPath": "C:\\Users\\pavle\\source\\repos\\Tracer\\TracerLib\\TracerLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.8.3, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.6, )"
+            },
+            "NLog.Config": {
+              "target": "Package",
+              "version": "[4.7.6, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0-beta.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\pavle\\source\\repos\\Tracer\\TracerLib\\TracerLib.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pavle\\source\\repos\\Tracer\\TracerLib\\TracerLib.csproj",
+        "projectName": "TracerLib",
+        "projectPath": "C:\\Users\\pavle\\source\\repos\\Tracer\\TracerLib\\TracerLib.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

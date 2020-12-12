@@ -14,7 +14,7 @@ namespace ConsoleOut
     class Program
     {
         static Tracer tracer = new Tracer() ;
-        private static void Main(string[] args)
+        private static void main(string[] args)
         {
             Thread Thread1 = new Thread(new ThreadStart(TheardTest1));
             Thread1.Start(); 

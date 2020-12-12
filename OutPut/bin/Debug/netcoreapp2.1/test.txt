@@ -5,12 +5,12 @@
         {
           "MethodName": "FooMethod",
           "MethodClassName": "Foo",
-          "MethodExecuteTime": 12,
+          "MethodExecuteTime": 32,
           "Methods": [
             {
               "MethodName": "BarMethod",
               "MethodClassName": "Bar",
-              "MethodExecuteTime": 6,
+              "MethodExecuteTime": 18,
               "Methods": []
             }
           ]
@@ -18,17 +18,17 @@
         {
           "MethodName": "FoobarMethod",
           "MethodClassName": "Foobar",
-          "MethodExecuteTime": 17,
+          "MethodExecuteTime": 45,
           "Methods": [
             {
               "MethodName": "FooMethod",
               "MethodClassName": "Foo",
-              "MethodExecuteTime": 11,
+              "MethodExecuteTime": 30,
               "Methods": [
                 {
                   "MethodName": "BarMethod",
                   "MethodClassName": "Bar",
-                  "MethodExecuteTime": 5,
+                  "MethodExecuteTime": 14,
                   "Methods": []
                 }
               ]
@@ -38,12 +38,12 @@
         {
           "MethodName": "FooMethod",
           "MethodClassName": "Foo",
-          "MethodExecuteTime": 10,
+          "MethodExecuteTime": 30,
           "Methods": [
             {
               "MethodName": "BarMethod",
               "MethodClassName": "Bar",
-              "MethodExecuteTime": 4,
+              "MethodExecuteTime": 14,
               "Methods": []
             }
           ]
@@ -51,36 +51,36 @@
         {
           "MethodName": "FooMethod",
           "MethodClassName": "Foo",
-          "MethodExecuteTime": 15,
+          "MethodExecuteTime": 31,
           "Methods": [
             {
               "MethodName": "BarMethod",
               "MethodClassName": "Bar",
-              "MethodExecuteTime": 10,
+              "MethodExecuteTime": 15,
               "Methods": []
             }
           ]
         }
       ],
       "TheardID": 1,
-      "ExecuteTime": 54
+      "ExecuteTime": 138
     },
     "3": {
       "Methods": [
         {
           "MethodName": "Recursion",
           "MethodClassName": "RecursionTest",
-          "MethodExecuteTime": 13,
+          "MethodExecuteTime": 47,
           "Methods": [
             {
               "MethodName": "Recursion",
               "MethodClassName": "RecursionTest",
-              "MethodExecuteTime": 8,
+              "MethodExecuteTime": 29,
               "Methods": [
                 {
                   "MethodName": "Recursion",
                   "MethodClassName": "RecursionTest",
-                  "MethodExecuteTime": 4,
+                  "MethodExecuteTime": 14,
                   "Methods": []
                 }
               ]
@@ -90,17 +90,17 @@
         {
           "MethodName": "FoobarMethod",
           "MethodClassName": "Foobar",
-          "MethodExecuteTime": 16,
+          "MethodExecuteTime": 45,
           "Methods": [
             {
               "MethodName": "FooMethod",
               "MethodClassName": "Foo",
-              "MethodExecuteTime": 10,
+              "MethodExecuteTime": 30,
               "Methods": [
                 {
                   "MethodName": "BarMethod",
                   "MethodClassName": "Bar",
-                  "MethodExecuteTime": 4,
+                  "MethodExecuteTime": 15,
                   "Methods": []
                 }
               ]
@@ -110,12 +110,12 @@
         {
           "MethodName": "Recursion",
           "MethodClassName": "RecursionTest",
-          "MethodExecuteTime": 9,
+          "MethodExecuteTime": 30,
           "Methods": [
             {
               "MethodName": "Recursion",
               "MethodClassName": "RecursionTest",
-              "MethodExecuteTime": 4,
+              "MethodExecuteTime": 15,
               "Methods": []
             }
           ]
@@ -123,29 +123,29 @@
         {
           "MethodName": "BarMethod",
           "MethodClassName": "Bar",
-          "MethodExecuteTime": 4,
+          "MethodExecuteTime": 15,
           "Methods": []
         }
       ],
       "TheardID": 3,
-      "ExecuteTime": 42
+      "ExecuteTime": 137
     },
     "4": {
       "Methods": [
         {
           "MethodName": "FooRec",
           "MethodClassName": "FooRecTest",
-          "MethodExecuteTime": 43,
+          "MethodExecuteTime": 124,
           "Methods": [
             {
               "MethodName": "FooMethod",
               "MethodClassName": "Foo",
-              "MethodExecuteTime": 11,
+              "MethodExecuteTime": 32,
               "Methods": [
                 {
                   "MethodName": "BarMethod",
                   "MethodClassName": "Bar",
-                  "MethodExecuteTime": 6,
+                  "MethodExecuteTime": 18,
                   "Methods": []
                 }
               ]
@@ -153,17 +153,17 @@
             {
               "MethodName": "FooRec",
               "MethodClassName": "FooRecTest",
-              "MethodExecuteTime": 30,
+              "MethodExecuteTime": 91,
               "Methods": [
                 {
                   "MethodName": "FooMethod",
                   "MethodClassName": "Foo",
-                  "MethodExecuteTime": 9,
+                  "MethodExecuteTime": 30,
                   "Methods": [
                     {
                       "MethodName": "BarMethod",
                       "MethodClassName": "Bar",
-                      "MethodExecuteTime": 4,
+                      "MethodExecuteTime": 14,
                       "Methods": []
                     }
                   ]
@@ -171,17 +171,17 @@
                 {
                   "MethodName": "FooRec",
                   "MethodClassName": "FooRecTest",
-                  "MethodExecuteTime": 20,
+                  "MethodExecuteTime": 60,
                   "Methods": [
                     {
                       "MethodName": "FooMethod",
                       "MethodClassName": "Foo",
-                      "MethodExecuteTime": 10,
+                      "MethodExecuteTime": 29,
                       "Methods": [
                         {
                           "MethodName": "BarMethod",
                           "MethodClassName": "Bar",
-                          "MethodExecuteTime": 4,
+                          "MethodExecuteTime": 14,
                           "Methods": []
                         }
                       ]
@@ -189,17 +189,17 @@
                     {
                       "MethodName": "FooRec",
                       "MethodClassName": "FooRecTest",
-                      "MethodExecuteTime": 10,
+                      "MethodExecuteTime": 30,
                       "Methods": [
                         {
                           "MethodName": "FooMethod",
                           "MethodClassName": "Foo",
-                          "MethodExecuteTime": 10,
+                          "MethodExecuteTime": 30,
                           "Methods": [
                             {
                               "MethodName": "BarMethod",
                               "MethodClassName": "Bar",
-                              "MethodExecuteTime": 4,
+                              "MethodExecuteTime": 15,
                               "Methods": []
                             }
                           ]
@@ -215,17 +215,17 @@
         {
           "MethodName": "FoobarMethod",
           "MethodClassName": "Foobar",
-          "MethodExecuteTime": 19,
+          "MethodExecuteTime": 47,
           "Methods": [
             {
               "MethodName": "FooMethod",
               "MethodClassName": "Foo",
-              "MethodExecuteTime": 13,
+              "MethodExecuteTime": 31,
               "Methods": [
                 {
                   "MethodName": "BarMethod",
                   "MethodClassName": "Bar",
-                  "MethodExecuteTime": 8,
+                  "MethodExecuteTime": 15,
                   "Methods": []
                 }
               ]
@@ -234,7 +234,7 @@
         }
       ],
       "TheardID": 4,
-      "ExecuteTime": 62
+      "ExecuteTime": 171
     }
   }
 }
